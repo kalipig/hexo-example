@@ -1,3 +1,8 @@
+---
+title: arc108f
+time: date: 2025-04-06 16:47:35
+tags: oi
+---
 # arc108f
 ## Problem
 [problem](https://atcoder.jp/contests/arc108/tasks/arc108_f)
